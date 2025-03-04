@@ -1,12 +1,12 @@
 # Lost_Data_Retrieval
 
-Data Recovery
+# Data Recovery
 
 What is Data Recovery?
 
 Data recovery is the process of retrieving lost, corrupted, or deleted files from storage devices like hard drives, SSDs, USB drives, and cloud storage. It uses specialized tools and software to recover important files that may have been lost due to accidental deletion, system crashes, viruses, or hardware failure. This helps businesses and individuals protect their important data and continue their work without major disruptions.
 
-Key Features
+# Key Features
 
 Recover Lost Data: Can restore files from hard drives, SSDs, USB drives, and cloud storage.
 
@@ -18,12 +18,12 @@ Activity Tracking: Keeps a detailed log of the recovery process, helping users u
 
 Flexible and Customizable: Designed in a modular way so users can modify and expand it as needed.
 
-Installation
+# Installation
 
-Clone the Repository:
+# Clone the Repository:
 
-git clone https://github.com/yourusername/Lost_Data_Retrieval.git
-cd Lost_Data_Retrieval
+git clone https://github.com/Priya897908/lost_Data_Retrival_final.git
+cd lost_Data_Retrival_final
 
 Install Dependencies:
 
@@ -33,7 +33,7 @@ Run the Application:
 
 python main.py
 
-Technical Details
+# Technical Details
 
 Python: The main programming language used due to its flexibility and extensive library support.
 
@@ -41,7 +41,7 @@ Recoverpy: A specialized library that provides core data recovery functionalitie
 
 Textual: A tool used to create a user-friendly terminal interface for the application.
 
-Usage
+# Usage
 
 Start the program by running python main.py.
 
@@ -51,7 +51,7 @@ Follow the on-screen instructions to initiate and complete the recovery process.
 
 Check the logs for details on recovered files and troubleshooting.
 
-Troubleshooting
+# Troubleshooting
 
 Issue: Application fails to start.
 
